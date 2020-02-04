@@ -35,8 +35,9 @@ h4 {
 }
 
 hr {
-	width: 24rem;
-	border-color: rgba(248,249,250,.6);
+	width: 400px;
+	border-color: rgba(248,249,250,.8);
+	border-bottom: 1px solid rgba(0,0,0,.2);
 }
 
 .fas.fa-paw,
